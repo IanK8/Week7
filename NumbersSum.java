@@ -13,6 +13,6 @@ public class NumbersSum {
             sum += userNum;
             userNum++;
         }
-        System.out.println("sUM :" + sum);
+        System.out.println("sUM: " + sum);
     }
 }
